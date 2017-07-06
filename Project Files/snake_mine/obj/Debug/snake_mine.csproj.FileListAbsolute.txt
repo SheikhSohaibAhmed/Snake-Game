@@ -1,0 +1,6 @@
+c:\users\sohaib\documents\visual studio 2017\Projects\snake_mine\snake_mine\bin\Debug\snake_mine.exe.config
+c:\users\sohaib\documents\visual studio 2017\Projects\snake_mine\snake_mine\bin\Debug\snake_mine.exe
+c:\users\sohaib\documents\visual studio 2017\Projects\snake_mine\snake_mine\bin\Debug\snake_mine.pdb
+c:\users\sohaib\documents\visual studio 2017\Projects\snake_mine\snake_mine\obj\Debug\snake_mine.csprojResolveAssemblyReference.cache
+c:\users\sohaib\documents\visual studio 2017\Projects\snake_mine\snake_mine\obj\Debug\snake_mine.exe
+c:\users\sohaib\documents\visual studio 2017\Projects\snake_mine\snake_mine\obj\Debug\snake_mine.pdb
